@@ -65,3 +65,9 @@ python main.py
   - Dress days, late starts, and extended homerooms ping `@everyone` (if enabled)
   - Halls don't ping but are still sent
 - **Daily Calendar Sync**: Calendar data is automatically refreshed every 24 hours
+
+## Dependencies
+
+- discord.py
+- python-dotenv
+- icalendar
