@@ -1,0 +1,9 @@
+version: '3.8'
+
+services:
+  foxbot:
+    build: .
+    container_name: foxbot
+    restart: unless-stopped
+    env_file:
+      - .env
