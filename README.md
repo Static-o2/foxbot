@@ -1,6 +1,6 @@
 # FoxBot 🦊
 
-A simple Discord bot for the RL Foxes discord server.
+A simple Discord bot built in python for the RL Foxes discord server.
 
 ## Setup
 
